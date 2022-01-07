@@ -1,2 +1,7 @@
-# web_dev_notes
-Notes - html, css, js, django
+# web_dev_notes 💻
+
+* html
+
+
+
+[(back)](https://github.com/PranavKrishnan007)
