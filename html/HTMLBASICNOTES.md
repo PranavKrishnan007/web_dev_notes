@@ -44,13 +44,13 @@ ____________________
 <h1 style="font-size:60px;">This is a bigger heading</h1>
 * this kind of bigger heading can be done using css font-size in style of the header.
 <hr>
-🙄 that separation was made using `<hr>`.
+🙄 that separation was made using <b><u>hr</u></b>.<hr>
 
-for paras we use `<p>` it ignores all the line separation and also the spaces in the middle.
+for paras we use `p` it ignores all the line separation and also the spaces in the middle.
 
-`<br>` is used for adding a line break. [if you want a line break without starting a new para]
+`br` is used for adding a line break. [if you want a line break without starting a new para]
 
-***Use the `<pre>` element*** to display in preformatted text.
+***Use the `pre` element*** to display in preformatted text.
 I.E. basically it preserves both spaces and lines.
 
 
