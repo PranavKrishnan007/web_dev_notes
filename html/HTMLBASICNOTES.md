@@ -7,7 +7,12 @@ mainly used for structure of a site I.E. HOW to display the things in a webpage.
 basics - `<html><head><title><body><p><h1>`
 
 headings - `<h1> to <h6>`,para - `<p>`,links - `<a>`, image - `<img>` (has src, alt, width, height parameterrs)
-
+<br><hr>
+here's a pic :<br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHj6dUr2FOpyS_XbJDugJ9EKekotRuOz7kuA&usqp=CAU" alt="dog_happy" width="260" height="194">
+<br><hr>
+here's a link:<br>
+click at your own <a href="https://pixabay.com/photos/cat-kitten-pet-lick-tongue-6723256/">risk</a><hr>
 `<br>` <-breaks 
 
 ***always close a <> with </>***
@@ -44,13 +49,13 @@ ____________________
 <h1 style="font-size:60px;">This is a bigger heading</h1>
 * this kind of bigger heading can be done using css font-size in style of the header.
 <hr>
-🙄 that separation was made using `<hr>`.
+🙄 that separation was made using <b><u>hr</u></b>.<hr>
 
-for paras we use `<p>` it ignores all the line separation and also the spaces in the middle.
+for paras we use `p` it ignores all the line separation and also the spaces in the middle.
 
-`<br>` is used for adding a line break. [if you want a line break without starting a new para]
+`br` is used for adding a line break. [if you want a line break without starting a new para]
 
-***Use the `<pre>` element*** to display in preformatted text.
+***Use the `pre` element*** to display in preformatted text.
 I.E. basically it preserves both spaces and lines.
 
 
