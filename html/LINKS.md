@@ -37,3 +37,21 @@ these are mostly title attributes so that when the mouse moves over the link, it
 <hr>
 
 p.s. - take a look at more of the absolute URL and relative URL stuff later...
+
+<hr>
+
+## Bookmark in HTML
+for very long web pages... we can use bookmarks, for this we first create the bookmark and then link it.
+<br>
+<br>
+when the link is clicked the page will scroll up or down to the location of the bookmark.
+```
+<h2 id="C4">Chapter 4</h2> <!--Creates the bookmark-->
+<a href="#C4">Jump to chapter 4</a> <!--Adding the link-->
+<a href="some_other_page.html#C4">Jump to chapter 4</a> <!--Go to bookmark on another page-->
+```
+- id attribute (id="value") <- defines a bookmark
+- href attribute (href="#value") <- link to the bookmark
+<hr>
+
+# WITH CSS USE : NOT =
