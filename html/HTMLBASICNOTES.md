@@ -7,7 +7,12 @@ mainly used for structure of a site I.E. HOW to display the things in a webpage.
 basics - `<html><head><title><body><p><h1>`
 
 headings - `<h1> to <h6>`,para - `<p>`,links - `<a>`, image - `<img>` (has src, alt, width, height parameterrs)
-
+<br><hr>
+here's a pic :<br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHj6dUr2FOpyS_XbJDugJ9EKekotRuOz7kuA&usqp=CAU" alt="dog_happy" width="260" height="194">
+<br><hr>
+here's a link:<br>
+click at your own <a href="https://pixabay.com/photos/cat-kitten-pet-lick-tongue-6723256/">risk</a><hr>
 `<br>` <-breaks 
 
 ***always close a <> with </>***
