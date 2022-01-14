@@ -43,3 +43,39 @@ Create Image Maps -
 `add maps and then give coordinates to the points try this out later....`
 
 <hr>
+# Favicon -
+small image, to use this save your favicon image to the root directory of your webserver, or create a folder in the root directory called images, and save your favicon image in this folder. 
+``` 
+ <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+ ``` 
+ this link should display favicon image to the left of the page title.
+ <hr>
+ # Tables
+ ```
+ <table> to start a table.
+ <tr> to define a table row.
+ <th> for table heading.
+ <td> for table data. (table cells)
+ ```
+ ## Adding border using css:
+ ```
+ table, th, td{
+  border: 1px solid black;
+  }
+  ```
+  collapsed table border - 
+  ``` 
+  with the above example just add border-collapse: collapse;
+  ```
+  round table borders - 
+  ``` 
+  table, th, td{
+    border: 1px solid black; 
+    border-radius: 10px;
+   }
+   ```
+   P.S - to skip the border around the table, we can just leave the table from the css selector.
+   
+`We can choose the border-style of the table to change the appearance of the table border.`
+ 
+border color - to change border color.
